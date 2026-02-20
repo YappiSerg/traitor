@@ -15,7 +15,10 @@ install:
 .PHONY: test
 test:
 	go test ./... -race -cover
+<<<<<<< HEAD
 fur branch 2
+=======
+>>>>>>> part4branch1
 first change
 second change
 third change

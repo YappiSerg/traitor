@@ -14,6 +14,7 @@ import (
 
 type Metadata struct {
 	Path string
+	Rofl int
 }
 
 var backdoorDirs = []string{
